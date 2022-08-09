@@ -3,7 +3,7 @@
 
 - 💬 Puedes preguntarme por tecnologías o lenguajes como: *Javascript, NodeJS, Bootstrap, HTML, CSS.*
 
-- 📫 Contáctame a través del siguiente correo: *@gmail.com*
+- 📫 Contáctame a través del siguiente correo: *elias.riospiutrin@gmail.com*
 
 
 <h3 align="left">Conecta conmigo:</h3>
